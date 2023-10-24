@@ -1,10 +1,15 @@
+# Plant Detection Prototype for SIH 2023
 
-  # Sentiment
+## Overview
+This repository houses a plant detection prototype developed for the Smart India Hackathon (SIH) 2023. The project is designed to leverage cutting-edge machine learning techniques for the identification and classification of various plant species. The primary goal is to address the challenges faced in Ayurvedic Pharmaceutics, specifically the accurate identification of medicinal plants and raw materials.
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+### Key Objectives:
+- Real-time plant identification through image processing.
+- Integration of machine learning algorithms, including Convolutional Neural Networks (CNN), for precise classification.
+- Provision of an intuitive app and web-based platform for user-friendly interactions.
+- Accessibility features, including an offline mode for users in remote areas.
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+### Installation
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/yashwaldia/Plant-Detection
